@@ -1,0 +1,53 @@
+﻿body {
+    background: rgb(195, 70, 252);
+    background: radial-gradient(circle, rgba(195, 70, 252, 1) 0%, rgba(88, 9, 190, 1) 100%);
+    margin: 0%;
+    align-content: baseline;
+    z-index: 1;
+}
+
+footer > .FDiv > img { /*perfil y configuracion */
+    position: fixed;
+    width: 100%;
+    margin-top: -200px;
+    z-index: -10000;
+}
+
+footer > .FDiv2 > img { /*contraseña y info */
+    position: fixed;
+    width: 100%;
+    margin-top: -98px;
+    z-index: -10000;
+}
+
+header > .HDiv > .HleftDiv > a > img {
+    float: left;
+    width: 125px;
+    height: 105px;
+    margin-top: auto;
+    margin-right: auto;
+}
+
+h1 {
+    padding-top: 10px;
+    font-family: 'WillyWonka', sans-serif;
+    font-size: 100px;
+    color: white;
+    text-align: center;
+    margin: auto;
+    cursor: default;
+}
+
+h2 {
+    font-family: 'WillyWonka', sans-serif;
+    font-size: 45px;
+    color: white;
+    text-align: center;
+    margin: auto;
+    cursor: default;
+}
+
+form {
+    align-content: center;
+    z-index: 1;
+}

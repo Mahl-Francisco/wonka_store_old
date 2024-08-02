@@ -1,0 +1,77 @@
+D:\Windows\Escritorio\UTN\Prog III\TP Integrador\Entrega 2\Tienda_Wonka\Negocio\bin\Debug\Negocio.dll
+D:\Windows\Escritorio\UTN\Prog III\TP Integrador\Entrega 2\Tienda_Wonka\Negocio\bin\Debug\Negocio.pdb
+D:\Windows\Escritorio\UTN\Prog III\TP Integrador\Entrega 2\Tienda_Wonka\Negocio\bin\Debug\Datos.dll
+D:\Windows\Escritorio\UTN\Prog III\TP Integrador\Entrega 2\Tienda_Wonka\Negocio\bin\Debug\Entidades.dll
+D:\Windows\Escritorio\UTN\Prog III\TP Integrador\Entrega 2\Tienda_Wonka\Negocio\bin\Debug\Datos.pdb
+D:\Windows\Escritorio\UTN\Prog III\TP Integrador\Entrega 2\Tienda_Wonka\Negocio\bin\Debug\Entidades.pdb
+D:\Windows\Escritorio\UTN\Prog III\TP Integrador\Entrega 2\Tienda_Wonka\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+D:\Windows\Escritorio\UTN\Prog III\TP Integrador\Entrega 2\Tienda_Wonka\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\Windows\Escritorio\UTN\Prog III\TP Integrador\Entrega 2\Tienda_Wonka\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+D:\Windows\Escritorio\UTN\Prog III\TP Integrador\Entrega 2\Tienda_Wonka\Negocio\obj\Debug\Negocio.dll
+D:\Windows\Escritorio\UTN\Prog III\TP Integrador\Entrega 2\Tienda_Wonka\Negocio\obj\Debug\Negocio.pdb
+D:\Windows\Escritorio\UTN\Prog III\TP Integrador\Tienda_Wonka\Negocio\bin\Debug\Negocio.dll
+D:\Windows\Escritorio\UTN\Prog III\TP Integrador\Tienda_Wonka\Negocio\bin\Debug\Negocio.pdb
+D:\Windows\Escritorio\UTN\Prog III\TP Integrador\Tienda_Wonka\Negocio\bin\Debug\Datos.dll
+D:\Windows\Escritorio\UTN\Prog III\TP Integrador\Tienda_Wonka\Negocio\bin\Debug\Entidades.dll
+D:\Windows\Escritorio\UTN\Prog III\TP Integrador\Tienda_Wonka\Negocio\bin\Debug\Datos.pdb
+D:\Windows\Escritorio\UTN\Prog III\TP Integrador\Tienda_Wonka\Negocio\bin\Debug\Entidades.pdb
+D:\Windows\Escritorio\UTN\Prog III\TP Integrador\Tienda_Wonka\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+D:\Windows\Escritorio\UTN\Prog III\TP Integrador\Tienda_Wonka\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\Windows\Escritorio\UTN\Prog III\TP Integrador\Tienda_Wonka\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+D:\Windows\Escritorio\UTN\Prog III\TP Integrador\Tienda_Wonka\Negocio\obj\Debug\Negocio.dll
+D:\Windows\Escritorio\UTN\Prog III\TP Integrador\Tienda_Wonka\Negocio\obj\Debug\Negocio.pdb
+D:\Windows\Escritorio\UTN\Prog III\TP Integrador\Entrega 2\Tremo\Negocio\bin\Debug\Negocio.dll
+D:\Windows\Escritorio\UTN\Prog III\TP Integrador\Entrega 2\Tremo\Negocio\bin\Debug\Negocio.pdb
+D:\Windows\Escritorio\UTN\Prog III\TP Integrador\Entrega 2\Tremo\Negocio\bin\Debug\Datos.dll
+D:\Windows\Escritorio\UTN\Prog III\TP Integrador\Entrega 2\Tremo\Negocio\bin\Debug\Entidades.dll
+D:\Windows\Escritorio\UTN\Prog III\TP Integrador\Entrega 2\Tremo\Negocio\bin\Debug\Datos.pdb
+D:\Windows\Escritorio\UTN\Prog III\TP Integrador\Entrega 2\Tremo\Negocio\bin\Debug\Entidades.pdb
+D:\Windows\Escritorio\UTN\Prog III\TP Integrador\Entrega 2\Tremo\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+D:\Windows\Escritorio\UTN\Prog III\TP Integrador\Entrega 2\Tremo\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\Windows\Escritorio\UTN\Prog III\TP Integrador\Entrega 2\Tremo\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+D:\Windows\Escritorio\UTN\Prog III\TP Integrador\Entrega 2\Tremo\Negocio\obj\Debug\Negocio.dll
+D:\Windows\Escritorio\UTN\Prog III\TP Integrador\Entrega 2\Tremo\Negocio\obj\Debug\Negocio.pdb
+D:\Windows\Escritorio\UTN\Prog III\TP Integrador\Entrega 3\Tienda_Wonka\Negocio\bin\Debug\Negocio.dll
+D:\Windows\Escritorio\UTN\Prog III\TP Integrador\Entrega 3\Tienda_Wonka\Negocio\bin\Debug\Negocio.pdb
+D:\Windows\Escritorio\UTN\Prog III\TP Integrador\Entrega 3\Tienda_Wonka\Negocio\bin\Debug\Datos.dll
+D:\Windows\Escritorio\UTN\Prog III\TP Integrador\Entrega 3\Tienda_Wonka\Negocio\bin\Debug\Entidades.dll
+D:\Windows\Escritorio\UTN\Prog III\TP Integrador\Entrega 3\Tienda_Wonka\Negocio\bin\Debug\Datos.pdb
+D:\Windows\Escritorio\UTN\Prog III\TP Integrador\Entrega 3\Tienda_Wonka\Negocio\bin\Debug\Entidades.pdb
+D:\Windows\Escritorio\UTN\Prog III\TP Integrador\Entrega 3\Tienda_Wonka\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+D:\Windows\Escritorio\UTN\Prog III\TP Integrador\Entrega 3\Tienda_Wonka\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\Windows\Escritorio\UTN\Prog III\TP Integrador\Entrega 3\Tienda_Wonka\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+D:\Windows\Escritorio\UTN\Prog III\TP Integrador\Entrega 3\Tienda_Wonka\Negocio\obj\Debug\Negocio.dll
+D:\Windows\Escritorio\UTN\Prog III\TP Integrador\Entrega 3\Tienda_Wonka\Negocio\obj\Debug\Negocio.pdb
+C:\Users\lucil\Desktop\Tienda_Wonka\Negocio\bin\Debug\Negocio.dll
+C:\Users\lucil\Desktop\Tienda_Wonka\Negocio\bin\Debug\Negocio.pdb
+C:\Users\lucil\Desktop\Tienda_Wonka\Negocio\bin\Debug\Datos.dll
+C:\Users\lucil\Desktop\Tienda_Wonka\Negocio\bin\Debug\Entidades.dll
+C:\Users\lucil\Desktop\Tienda_Wonka\Negocio\bin\Debug\Datos.pdb
+C:\Users\lucil\Desktop\Tienda_Wonka\Negocio\bin\Debug\Entidades.pdb
+C:\Users\lucil\Desktop\Tienda_Wonka\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\lucil\Desktop\Tienda_Wonka\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\lucil\Desktop\Tienda_Wonka\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\lucil\Desktop\Tienda_Wonka\Negocio\obj\Debug\Negocio.dll
+C:\Users\lucil\Desktop\Tienda_Wonka\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Usuario\Desktop\Wonka\Tienda_Wonka\Negocio\bin\Debug\Negocio.dll
+C:\Users\Usuario\Desktop\Wonka\Tienda_Wonka\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Usuario\Desktop\Wonka\Tienda_Wonka\Negocio\bin\Debug\Datos.dll
+C:\Users\Usuario\Desktop\Wonka\Tienda_Wonka\Negocio\bin\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\Wonka\Tienda_Wonka\Negocio\bin\Debug\Datos.pdb
+C:\Users\Usuario\Desktop\Wonka\Tienda_Wonka\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\Wonka\Tienda_Wonka\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Wonka\Tienda_Wonka\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Wonka\Tienda_Wonka\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Wonka\Tienda_Wonka\Negocio\obj\Debug\Negocio.dll
+C:\Users\Usuario\Desktop\Wonka\Tienda_Wonka\Negocio\obj\Debug\Negocio.pdb
+F:\Windows\Descargas\Mis proyectos\2021 1er cuatrimestre\Prog III\TP Integrador\Entrega 3\Tienda_Wonka\Negocio\bin\Debug\Negocio.dll
+F:\Windows\Descargas\Mis proyectos\2021 1er cuatrimestre\Prog III\TP Integrador\Entrega 3\Tienda_Wonka\Negocio\bin\Debug\Negocio.pdb
+F:\Windows\Descargas\Mis proyectos\2021 1er cuatrimestre\Prog III\TP Integrador\Entrega 3\Tienda_Wonka\Negocio\bin\Debug\Datos.dll
+F:\Windows\Descargas\Mis proyectos\2021 1er cuatrimestre\Prog III\TP Integrador\Entrega 3\Tienda_Wonka\Negocio\bin\Debug\Entidades.dll
+F:\Windows\Descargas\Mis proyectos\2021 1er cuatrimestre\Prog III\TP Integrador\Entrega 3\Tienda_Wonka\Negocio\bin\Debug\Datos.pdb
+F:\Windows\Descargas\Mis proyectos\2021 1er cuatrimestre\Prog III\TP Integrador\Entrega 3\Tienda_Wonka\Negocio\bin\Debug\Entidades.pdb
+F:\Windows\Descargas\Mis proyectos\2021 1er cuatrimestre\Prog III\TP Integrador\Entrega 3\Tienda_Wonka\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+F:\Windows\Descargas\Mis proyectos\2021 1er cuatrimestre\Prog III\TP Integrador\Entrega 3\Tienda_Wonka\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+F:\Windows\Descargas\Mis proyectos\2021 1er cuatrimestre\Prog III\TP Integrador\Entrega 3\Tienda_Wonka\Negocio\obj\Debug\Negocio.csproj.Up2Date
+F:\Windows\Descargas\Mis proyectos\2021 1er cuatrimestre\Prog III\TP Integrador\Entrega 3\Tienda_Wonka\Negocio\obj\Debug\Negocio.dll
+F:\Windows\Descargas\Mis proyectos\2021 1er cuatrimestre\Prog III\TP Integrador\Entrega 3\Tienda_Wonka\Negocio\obj\Debug\Negocio.pdb

@@ -1,0 +1,62 @@
+﻿body {
+    background: rgb(195, 70, 252);
+    background: radial-gradient(circle, rgba(195, 70, 252, 1) 0%, rgba(88, 9, 190, 1) 100%);
+    margin: 0%;
+    align-content: baseline;
+    z-index: 1;
+}
+
+}
+
+footer > .FDiv > img {
+    position: absolute;
+    width: 100%;
+    left: 0%;
+    bottom: -22%;
+}
+
+footer > .FDiv2 > img {
+    position: absolute;
+    width: 100%;
+    left: 0%;
+    bottom: -10%;
+}
+
+footer > .FDiv3 > img {
+    position: absolute;
+    width: 100%;
+    left: 0%;
+    bottom: -30%;
+}
+
+header > .HDiv > .HleftDiv > a > img {
+    float: left;
+    width: 125px;
+    height: 105px;
+    margin-top: auto;
+    margin-right: auto;
+}
+
+h1 {
+    padding-top: 10px;
+    font-family: 'WillyWonka', sans-serif;
+    font-size: 100px;
+    color: white;
+    text-align: center;
+    margin: auto;
+    cursor: default;
+}
+
+h2 {
+    font-family: 'WillyWonka', sans-serif;
+    font-size: 45px;
+    color: white;
+    text-align: center;
+    margin: auto;
+    cursor: default;
+}
+
+form {
+    align-content: center;
+    z-index: 1;
+}

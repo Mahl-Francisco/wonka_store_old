@@ -1,0 +1,30 @@
+D:\Windows\Escritorio\UTN\Prog III\TP Integrador\Entrega 2\Tienda_Wonka\Entidades\bin\Debug\Entidades.dll
+D:\Windows\Escritorio\UTN\Prog III\TP Integrador\Entrega 2\Tienda_Wonka\Entidades\bin\Debug\Entidades.pdb
+D:\Windows\Escritorio\UTN\Prog III\TP Integrador\Entrega 2\Tienda_Wonka\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+D:\Windows\Escritorio\UTN\Prog III\TP Integrador\Entrega 2\Tienda_Wonka\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Windows\Escritorio\UTN\Prog III\TP Integrador\Entrega 2\Tienda_Wonka\Entidades\obj\Debug\Entidades.dll
+D:\Windows\Escritorio\UTN\Prog III\TP Integrador\Entrega 2\Tienda_Wonka\Entidades\obj\Debug\Entidades.pdb
+D:\Windows\Escritorio\UTN\Prog III\TP Integrador\Entrega 3\Tienda_Wonka\Entidades\bin\Debug\Entidades.dll
+D:\Windows\Escritorio\UTN\Prog III\TP Integrador\Entrega 3\Tienda_Wonka\Entidades\bin\Debug\Entidades.pdb
+D:\Windows\Escritorio\UTN\Prog III\TP Integrador\Entrega 3\Tienda_Wonka\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+D:\Windows\Escritorio\UTN\Prog III\TP Integrador\Entrega 3\Tienda_Wonka\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Windows\Escritorio\UTN\Prog III\TP Integrador\Entrega 3\Tienda_Wonka\Entidades\obj\Debug\Entidades.dll
+D:\Windows\Escritorio\UTN\Prog III\TP Integrador\Entrega 3\Tienda_Wonka\Entidades\obj\Debug\Entidades.pdb
+C:\Users\lucil\Desktop\Tienda_Wonka\Entidades\bin\Debug\Entidades.dll
+C:\Users\lucil\Desktop\Tienda_Wonka\Entidades\bin\Debug\Entidades.pdb
+C:\Users\lucil\Desktop\Tienda_Wonka\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\lucil\Desktop\Tienda_Wonka\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\lucil\Desktop\Tienda_Wonka\Entidades\obj\Debug\Entidades.dll
+C:\Users\lucil\Desktop\Tienda_Wonka\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\Wonka\Tienda_Wonka\Entidades\bin\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\Wonka\Tienda_Wonka\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\Wonka\Tienda_Wonka\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Wonka\Tienda_Wonka\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Wonka\Tienda_Wonka\Entidades\obj\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\Wonka\Tienda_Wonka\Entidades\obj\Debug\Entidades.pdb
+F:\Windows\Descargas\Mis proyectos\2021 1er cuatrimestre\Prog III\TP Integrador\Entrega 3\Tienda_Wonka\Entidades\bin\Debug\Entidades.dll
+F:\Windows\Descargas\Mis proyectos\2021 1er cuatrimestre\Prog III\TP Integrador\Entrega 3\Tienda_Wonka\Entidades\bin\Debug\Entidades.pdb
+F:\Windows\Descargas\Mis proyectos\2021 1er cuatrimestre\Prog III\TP Integrador\Entrega 3\Tienda_Wonka\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+F:\Windows\Descargas\Mis proyectos\2021 1er cuatrimestre\Prog III\TP Integrador\Entrega 3\Tienda_Wonka\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+F:\Windows\Descargas\Mis proyectos\2021 1er cuatrimestre\Prog III\TP Integrador\Entrega 3\Tienda_Wonka\Entidades\obj\Debug\Entidades.dll
+F:\Windows\Descargas\Mis proyectos\2021 1er cuatrimestre\Prog III\TP Integrador\Entrega 3\Tienda_Wonka\Entidades\obj\Debug\Entidades.pdb

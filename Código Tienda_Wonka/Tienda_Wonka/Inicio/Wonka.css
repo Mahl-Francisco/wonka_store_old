@@ -1,0 +1,49 @@
+﻿body {
+    background: rgb(195, 70, 252);
+    background: radial-gradient(circle, rgba(195, 70, 252, 1) 0%, rgba(88, 9, 190, 1) 100%);
+    margin: 0%;
+    align-content: baseline;
+    z-index: 1;
+}
+.txt {
+    font-style: italic;
+    font-weight: bold;
+    font-size: large;
+    color: #FFFFF0;
+}
+footer > .FDiv > img {
+    position: page;
+    width: 100%;
+    z-index:-10000;
+    margin-bottom:-300px;
+}
+
+header > .HDiv > .HleftDiv > a > img {
+    float: left;
+    width: 125px;
+    height: 105px;
+    margin-top: auto;
+    margin-right: auto;
+}
+
+h1 {
+    padding-top: 10px;
+    font-family: 'WillyWonka', sans-serif;
+    font-size: 100px;
+    color: white;
+    text-align: center;
+    margin: auto;
+    cursor: default;
+}
+h2 {
+    font-family: 'WillyWonka', sans-serif;
+    font-size: 45px;
+    color: white;
+    text-align: center;
+    margin: auto;
+    cursor: default;
+}
+form{
+    align-content:center;
+    z-index: 1;
+}
